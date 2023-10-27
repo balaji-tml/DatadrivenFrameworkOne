@@ -1,0 +1,57 @@
+13:17:07.265 [main] INFO  - In start of the setUp()
+13:17:07.319 [main] INFO  - Platform is: linux
+13:17:07.320 [main] INFO  - Config file is loaded!
+13:17:07.321 [main] INFO  - Config file is loaded!
+13:17:11.195 [main] INFO  - Chrome browser is loaded!
+13:17:11.321 [main] INFO  - In end of the setUp()
+13:17:11.341 [main] INFO  - In onStart()
+13:17:11.492 [TestNG-test=Login Test-1] INFO  - In start of the getData()
+13:17:11.532 [TestNG-test=Login Test-1] INFO  - In end of the getData()
+13:17:11.623 [TestNG-test=Login Test-1] INFO  - In onTestStart()
+13:17:12.477 [TestNG-test=Login Test-1] INFO  - In start of the loginTest()
+13:17:13.779 [TestNG-test=Login Test-1] INFO  - Test application URL is loaded!
+13:17:13.796 [TestNG-test=Login Test-1] INFO  - Page title is: Swag Labs
+13:17:13.796 [TestNG-test=Login Test-1] INFO  - Username: standard_user and password is: secret_sauce
+13:17:15.078 [TestNG-test=Login Test-1] INFO  - In end of the loginTest()
+13:17:15.084 [TestNG-test=Login Test-1] INFO  - In onTestSuccess()
+13:17:16.083 [TestNG-test=Login Test-1] INFO  - In onTestStart()
+13:17:16.084 [TestNG-test=Login Test-1] INFO  - In start of the loginTest()
+13:17:16.180 [TestNG-test=Login Test-1] INFO  - Test application URL is loaded!
+13:17:16.193 [TestNG-test=Login Test-1] INFO  - Page title is: Swag Labs
+13:17:16.193 [TestNG-test=Login Test-1] INFO  - Username: locked_out_user and password is: secret_sauce
+13:17:17.100 [TestNG-test=Login Test-1] INFO  - In end of the loginTest()
+13:17:17.101 [TestNG-test=Login Test-1] INFO  - In onTestSuccess()
+13:17:17.653 [TestNG-test=Login Test-1] INFO  - In onTestStart()
+13:17:17.654 [TestNG-test=Login Test-1] INFO  - In start of the loginTest()
+13:17:17.697 [TestNG-test=Login Test-1] INFO  - Test application URL is loaded!
+13:17:17.706 [TestNG-test=Login Test-1] INFO  - Page title is: Swag Labs
+13:17:17.706 [TestNG-test=Login Test-1] INFO  - Username: problem_user and password is: secret_sauce
+13:17:18.612 [TestNG-test=Login Test-1] INFO  - In end of the loginTest()
+13:17:18.612 [TestNG-test=Login Test-1] INFO  - In onTestSuccess()
+13:17:19.488 [TestNG-test=Login Test-1] INFO  - In onTestStart()
+13:17:19.489 [TestNG-test=Login Test-1] INFO  - In start of the loginTest()
+13:17:19.532 [TestNG-test=Login Test-1] INFO  - Test application URL is loaded!
+13:17:19.542 [TestNG-test=Login Test-1] INFO  - Page title is: Swag Labs
+13:17:19.542 [TestNG-test=Login Test-1] INFO  - Username: performance_glitch_user and password is: secret_sauce
+13:17:25.441 [TestNG-test=Login Test-1] INFO  - In end of the loginTest()
+13:17:25.442 [TestNG-test=Login Test-1] INFO  - In onTestSuccess()
+13:17:26.212 [main] INFO  - In onFinish()
+13:17:27.006 [main] INFO  - In onStart()
+13:17:27.086 [TestNG-test=Buy Product Test-1] INFO  - In start of the getData()
+13:17:27.090 [TestNG-test=Buy Product Test-1] INFO  - In end of the getData()
+13:17:27.094 [TestNG-test=Buy Product Test-1] INFO  - In onTestStart()
+13:17:27.095 [TestNG-test=Buy Product Test-1] INFO  - In start of the buyProductTest()
+13:17:27.099 [TestNG-test=Buy Product Test-1] INFO  - In onTestSuccess()
+13:17:27.974 [TestNG-test=Buy Product Test-1] INFO  - In onTestStart()
+13:17:27.974 [TestNG-test=Buy Product Test-1] INFO  - In start of the buyProductTest()
+13:17:27.977 [TestNG-test=Buy Product Test-1] INFO  - In onTestSuccess()
+13:17:28.758 [TestNG-test=Buy Product Test-1] INFO  - In onTestStart()
+13:17:28.759 [TestNG-test=Buy Product Test-1] INFO  - In start of the buyProductTest()
+13:17:28.762 [TestNG-test=Buy Product Test-1] INFO  - In onTestSuccess()
+13:17:29.617 [TestNG-test=Buy Product Test-1] INFO  - In onTestStart()
+13:17:29.618 [TestNG-test=Buy Product Test-1] INFO  - In start of the buyProductTest()
+13:17:29.622 [TestNG-test=Buy Product Test-1] INFO  - In onTestSuccess()
+13:17:30.406 [main] INFO  - In onFinish()
+13:17:30.468 [main] INFO  - In start of the tearDown()
+13:17:30.579 [main] INFO  - Browser is closed!
+13:17:30.579 [main] INFO  - In end of the tearDown()
